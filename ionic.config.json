@@ -1,0 +1,7 @@
+{
+  "name": "practicaIonicClase",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
